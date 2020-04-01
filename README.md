@@ -5,10 +5,14 @@ We are group of scientist from Biochemistry department at Lund University, Swede
 
 
 > Q1: What is the origin of human coronaviruses?
-> A1: Human corona virus originates from bats and are transimted through intermediat organisms, e.g civet... (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
 
+> A1: Human corona virus originates from bats and are transimted through intermediat organisms, e.g civet... (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
+---------
 > Q2: How does the SARS-CoV recognize human cells?
+
 > A2: SARS-CoV uses its receptorbinding domain (part of protien)to bind human enzyme(ACE2) thorugh tightly controlled structural interface (including a few mutations) (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
 
+---------
 > Q3: Why do we observe outbreak of coronaviruses in XXI century?
+
 > A3: "It is widely accepted that many viruses have existed intheir natural reservoirs for a very long time. The constant spillover of viruses from natural hosts to humans and other animals is largely due to human activities, including modern agricultural practices and urbanization. Therefore, the most effective way to prevent viral zoonosis is to maintain the barriers between natural reservoirs and human society, in mind of the ‘one health’ concept." (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
