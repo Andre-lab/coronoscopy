@@ -20,7 +20,7 @@ We are a group of scientists from Biochemistry department at Lund University, Sw
 ---------
 > Q3: What is the origin of human coronaviruses?
 
-> A3: Human coronaviruses originates from bats and are transimted through intermediate organisms, e.g civet or camel to humans (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
+> A3: Human coronaviruses originates from bats or small rodents and are transimted through intermediate organisms, e.g civet or camel to humans (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
 
 ---------
 > Q4: How does the SARS-CoV recognize human cells?
