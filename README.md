@@ -6,11 +6,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 ---------
 > Q1: What is coronavirus?
 
-> A1:  Coronaviridae is a family of viruses that cause disease in humans or other animals. Coronaviruses cause a range of diseases from common colds to Severe Acute Respiratory Syndrome (SARS) and Covid-19.
-
-Like other viruses the coronaviruses need to hijack host cells from another organism in order to replicate. The virus particles need a way to enter the cells of the host and then the host cell is used to replicate the viral genome and produce more virus particles.
-
-Coronaviruses are so called enveloped viruses. Their core which contains their genetic material, RNA, is surrounded by a lipid membrane held together by envelope proteins. On the surface, the coronaviruses have a protein called the spike protein which they use to recognize and bind to host organism cells in order to penetrate the cells and use their machinery to replicate.
+> A1:  Coronaviridae is a family of viruses that cause disease in humans or other animals. Coronaviruses cause a range of diseases from common colds to Severe Acute Respiratory Syndrome (SARS) and Covid-19. Like other viruses the coronaviruses need to hijack host cells from another organism in order to replicate. The virus particles need a way to enter the cells of the host and then the host cell is used to replicate the viral genome and produce more virus particles. Coronaviruses are so called enveloped viruses. Their core which contains their genetic material, RNA, is surrounded by a lipid membrane held together by envelope proteins. On the surface, the coronaviruses have a protein called the spike protein which they use to recognize and bind to host organism cells in order to penetrate the cells and use their machinery to replicate.
 (https://www.immunology.org/public-information/bitesized-immunology/pathogens-and-disease/virus-replication)
 (https://mmbr.asm.org/content/62/4/1171)
 
@@ -37,9 +33,7 @@ Coronaviruses are so called enveloped viruses. Their core which contains their g
 ---------
 > Q4: How does the SARS-CoV recognize human cells?
 
-> A4: SARS-CoV and SARS-CoV-2 uses its receptor binding domain (part of a spike protein on the surface of the virus) to bind a human enzyme (ACE2), through a tightly controlled structural interface. ACE2 is an enzyme that has a role in regulation of blood pressure. It is located on the outside of the cell membrane in eg. lung epithelial cells. Binding of the virus spike protein to ACE2 on a cell facilitates the entry of the virus into the cell.
-
-SARS-CoV-2 have a few mutations in the receptor binding domain compared to SARS-CoV but they bind to and recognize human cells at the same receptor, ACE2.
+> A4: SARS-CoV and SARS-CoV-2 uses its receptor binding domain (part of a spike protein on the surface of the virus) to bind a human enzyme (ACE2), through a tightly controlled structural interface. ACE2 is an enzyme that has a role in regulation of blood pressure. It is located on the outside of the cell membrane in eg. lung epithelial cells. Binding of the virus spike protein to ACE2 on a cell facilitates the entry of the virus into the cell. SARS-CoV-2 have a few mutations in the receptor binding domain compared to SARS-CoV but they bind to and recognize human cells at the same receptor, ACE2.
 (https://onlinelibrary.wiley.com/doi/full/10.1002/path.1570)
 (https://www.nature.com/articles/s41586-020-2179-y) (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
 
