@@ -6,8 +6,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 ---------
 > Q1: What is coronavirus?
 
-> A1:  Coronaviridae is a family of viruses that cause disease in humans or other animals. Coronaviruses cause a range of diseases from common colds to Severe Acute Respiratory Syndrome (SARS) and Covid-19. Like other viruses the coronaviruses need to hijack host cells from another organism in order to replicate. The virus particles need a way to enter the cells of the host and then the host cell is used to replicate the viral genome and produce more virus particles. Coronaviruses are so called enveloped viruses. Their core which contains their genetic material, RNA, is surrounded by a lipid membrane held together by envelope proteins. On the surface, the coronaviruses have a protein called the spike protein which they use to recognize and bind to host organism cells in order to penetrate the cells and use their machinery to replicate.
-(https://www.immunology.org/public-information/bitesized-immunology/pathogens-and-disease/virus-replication)
+> A1:  Coronaviridae is a family of viruses that cause disease in humans or other animals. Coronaviruses cause a range of diseases from common colds to Severe Acute Respiratory Syndrome (SARS) and Covid-19. Like other viruses the coronaviruses need to hijack host cells from another organism in order to replicate. The virus particles need a way to enter the cells of the host and then the host cell is used to replicate the viral genome and produce more virus particles. Coronaviruses are so called enveloped viruses. Their core which contains their genetic material, RNA, is surrounded by a lipid membrane held together by envelope proteins. On the surface, the coronaviruses have a protein called the spike protein which they use to recognize and bind to host organism cells in order to penetrate the cells and use their machinery to replicate.(https://www.immunology.org/public-information/bitesized-immunology/pathogens-and-disease/virus-replication)
 (https://mmbr.asm.org/content/62/4/1171)
 
 
@@ -16,19 +15,14 @@ We are a group of scientists from the Biochemistry department at Lund University
 ---------
 > Q2: How many corona viruses haven been discovered?
 
-> A2: Many coronaviruses have been discovered, the family Coronaviridae contains 3500 species that scientists have sequenced the complete genome of.  The most known coronaviruses are the variants that have caused recent epidemics. Severe Acute Respiratory Syndrome (SARS) spread to several countries in 2002-2003 was caused by the virus called SARS-CoV, Middle Eastern Respiratory Syndrom (MERS) spread in 2012 was caused by the virus MERS-CoV. The current pandemic of Covid-19 is caused by the virus SARS-CoV-2.
-(https://www.viprbrc.org/brc/home.spg?decorator=corona)
+> A2: Many coronaviruses have been discovered, the family Coronaviridae contains 3500 species that scientists have sequenced the complete genome of.  The most known coronaviruses are the variants that have caused recent epidemics. Severe Acute Respiratory Syndrome (SARS) spread to several countries in 2002-2003 was caused by the virus called SARS-CoV, Middle Eastern Respiratory Syndrom (MERS) spread in 2012 was caused by the virus MERS-CoV. The current pandemic of Covid-19 is caused by the virus SARS-CoV-2.(https://www.viprbrc.org/brc/home.spg?decorator=corona)
 
 ---------
 
 ---------
 > Q3: What is the origin of human coronaviruses MERS-CoV, SARS-CoV and SARS-CoV-2 (Covid-19 virus)?
 
-> A3: Human coronaviruses MERS-CoV and SARS-CoV originates from bats and were transmitted to humans via camels and civets. Other human coronaviruses have originated from bats or rodents and have been transmitted through intermediate organisms to humans. The "new coronavirus" SARS-CoV-2 we don't yet know the origin of but it has been found that it has great similarity with a variant that is found in bats. We also don't know if there is other intermediate organisms involved in transmission to humans.
-
-(https://www.nature.com/articles/s41579-018-0118-9er) 
-(https://www.nature.com/articles/s41586-020-2179-y)
-(https://www.ncbi.nlm.nih.gov/pubmed/20567988)
+> A3: Human coronaviruses MERS-CoV and SARS-CoV originates from bats and were transmitted to humans via camels and civets. Other human coronaviruses have originated from bats or rodents and have been transmitted through intermediate organisms to humans. The "new coronavirus" SARS-CoV-2 we don't yet know the origin of but it has been found that it has great similarity with a variant that is found in bats. We also don't know if there is other intermediate organisms involved in transmission to humans. (https://www.nature.com/articles/s41579-018-0118-9er) (https://www.nature.com/articles/s41586-020-2179-y) (https://www.ncbi.nlm.nih.gov/pubmed/20567988)
 
 ---------
 > Q4: How does the SARS-CoV recognize human cells?
