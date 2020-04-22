@@ -48,8 +48,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 
 > Q7: How many protein are encoded in virus genome and what do they do?
 
-> A7: The genome of the new coronavirus is less than 30,000 “letters” long. (The human genome is over 3 billion.) Scientists have identified genes for as many as 29 proteins, which carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. The first viral protein created inside the infected cell is actually a chain of 16 proteins joined together. Two of these proteins act like scissors, snipping the links between the different proteins and freeing them to do their jobs. 
-
+> A7: The genome of the new coronavirus is less than 30,000 “letters” long. (The human genome is over 3 billion.) Scientists have identified genes for as many as 29 proteins, which carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. The first viral protein created inside the infected cell is actually a chain of 16 proteins joined together. Two of these proteins act like scissors, snipping the links between the different proteins and freeing them to do their jobs. https://www.nature.com/articles/s41586-020-2008-3, https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
 ---------
 
 > Q8: What are potential antiviral therapies?
