@@ -38,7 +38,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 ---------
 > Q8: How many protein are encoded in virus genome and what do they do?
 
-> A8: There have been genes identified for 29 proteins. These proteins carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. https://www.nature.com/articles/s41586-020-2008-3, https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
+> A8: There have been genes identified for 29 proteins. These proteins carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. https://www.nature.com/articles/s41586-020-2008-3, https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html, https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2.full.pdf
 ---------
 > Q9: What are potential antiviral therapies?
 
