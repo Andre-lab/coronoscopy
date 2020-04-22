@@ -7,7 +7,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 > Q1: What is coronavirus?
 
 > A1:  Coronaviridae is a family of viruses that cause disease in humans or other animals. Coronaviruses cause a range of diseases from common colds to Severe Acute Respiratory Syndrome (SARS) and Covid-19. Like other viruses the coronaviruses need to hijack host cells from another organism in order to replicate. The virus particles need a way to enter the cells of the host and then the host cell is used to replicate the viral genome and produce more virus particles. Coronaviruses are so called enveloped viruses. Their core which contains their genetic material, RNA, is surrounded by a lipid membrane held together by envelope proteins. On the surface, the coronaviruses have a protein called the spike protein which they use to recognize and bind to host organism cells in order to penetrate the cells and use their machinery to replicate.(https://www.immunology.org/public-information/bitesized-immunology/pathogens-and-disease/virus-replication)
-(https://mmbr.asm.org/content/62/4/1171)
+(https://mmbr.asm.org/content/62/4/1171), (https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1182-0)
 ---------
 > Q2: How many corona viruses haven been discovered?
 
@@ -38,7 +38,7 @@ We are a group of scientists from the Biochemistry department at Lund University
 ---------
 > Q8: How many protein are encoded in virus genome and what do they do?
 
-> A8: There have been genes identified for 29 proteins. These proteins carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. https://www.nature.com/articles/s41586-020-2008-3, https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html, https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2.full.pdf
+> A8:T he RNA genome of SARS-CoV-2 has 29,811 nucleotides and encodes 29 proteins (though one may not get expressed). These proteins carry out a range of jobs from making copies of the coronavirus to suppressing the body’s immune responses. Of the 29 SARS-CoV-2 proteins, four make up the virus’s actual structure, including the S protein. One group of the other 25 coronavirus proteins regulates how the virus assembles copies of itself and how it sneaks past the host immune system. These so-called nonstructural proteins are expressed as two huge polyproteins that are then cleaved into 16 smaller proteins. An enzyme called the main protease, which performs 11 of those cleavages, is also a highly promising drug target.  https://www.nature.com/articles/s41586-020-2008-3, https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html, https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2.full.pdf
 ---------
 > Q9: What are potential antiviral therapies?
 
