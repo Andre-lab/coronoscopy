@@ -56,17 +56,7 @@ The composition of this surface help scientist to determine what is the host ran
 ---------
 > Q10: Why do we observe outbreak of coronaviruses in XXI century?
 
-> A10: 
-
-Despite increasing control measures, numerous parasitic and infectious diseases are emerging, re-emerging or causing recurrent outbreaks particularly in Asia and the Pacific region, a hot spot of both infectious disease emergence and biodiversity at risk. We investigate how biodiversity affects the distribution of infectious diseases and their outbreaks in this region, taking into account socio-economics (population size, GDP, public health expenditure), geography (latitude and nation size), climate (precipitation, temperature) and biodiversity (bird and mammal species richness, forest cover, mammal and bird species at threat). We show, among countries, that the overall richness of infectious diseases is positively correlated with the richness of birds and mammals, but the number of zoonotic disease outbreaks is positively correlated with the number of threatened mammal and bird species and the number of vector-borne disease outbreaks is negatively correlated with forest cover. These results suggest that, among countries, biodiversity is a source of pathogens, but also that the loss of biodiversity or its regulation, as measured by forest cover or threatened species, seems to be associated with an increase in zoonotic and vector-borne disease outbreaks
-
-"Disease and illnesses have plagued humanity since the earliest days, our mortal flaw. However, it was not until the marked shift to agrarian communities that the scale and spread of these diseases increased dramatically.
-
-Widespread trade created new opportunities for human and animal interactions that sped up such epidemics. Malaria, tuberculosis, leprosy, influenza, smallpox, and others first appeared during these early years.
-
-The more civilized humans became – with larger cities, more exotic trade routes, and increased contact with different populations of people, animals, and ecosystems – the more likely pandemics would occur."
-
-"It is widely accepted that many viruses have existed intheir natural reservoirs for a very long time. The constant spillover of viruses from natural hosts to humans and other animals is largely due to human activities, including modern agricultural practices and urbanization. Therefore, the most effective way to prevent viral zoonosis is to maintain the barriers between natural reservoirs and human society, in mind of the ‘one health’ concept." 
-
+> A10: In our modern societies, it could seem counterintuitive that we are still sensible to pandemic outbreak. However, despite the tremendous progress in medicine and in control measures numerous diseases are emerging and spreading with an increase efficiency. 
+Nowadays, outbreaks are more and more frequent and seems to emerge from hot spot of biodiversity at risk. Numerous studies show that, despite biodiversity being a source of pathogens, it is its decrease of biodiversity that cause a dramatic increase in such epidemics.  Outbreak are then becoming pandemic thanks to widespread trade and increased contact between populations.
 (https://www.ncbi.nlm.nih.gov/pubmed/20567988) (https://www.visualcapitalist.com/history-of-pandemics-deadliest/) (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090032) (https://www.nature.com/articles/s41559-019-1060-6)
 
