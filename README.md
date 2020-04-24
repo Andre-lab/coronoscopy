@@ -59,4 +59,7 @@ The composition of this surface help scientist to determine what is the host ran
 > A10: In our modern societies, it could seem counterintuitive that we are still sensible to pandemic outbreak. However, despite the tremendous progress in medicine and in control measures numerous diseases are emerging and spreading with an increase efficiency. 
 Nowadays, outbreaks are more and more frequent and seems to emerge from hot spot of biodiversity at risk. Numerous studies show that, despite biodiversity being a source of pathogens, it is its decrease of biodiversity that cause a dramatic increase in such epidemics.  Outbreak are then becoming pandemic thanks to widespread trade and increased contact between populations.
 (https://www.ncbi.nlm.nih.gov/pubmed/20567988) (https://www.visualcapitalist.com/history-of-pandemics-deadliest/) (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090032) (https://www.nature.com/articles/s41559-019-1060-6)
+---------
+> Q11: Can we prevent the rise of new outbreak?
 
+> A11: Yes by stopping to fly for vacation and eating less meat 
