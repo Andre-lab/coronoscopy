@@ -62,10 +62,7 @@ Nowadays, outbreaks are more and more frequent and seems to emerge from hot spot
 ---------
 > Q11: Can we prevent the rise of future outbreak?
 
-> A11: Human are vividly transforming the biosphere to fit their consumption pattern. For example, from 1960 to nowadays, the global production and consumption of chicken, pig and cattle had a 5-fold increase. The increase of industrial intensive farm to meet the consumption demands decreases the diversity of the farmed animals, which makes them a great incubator for new outbreak. But it also has a tremendous consequence on the environment biodiversity. Indeed, the growing need of land to raise these animals but also to produce the food of these animals. The deforestation and other conquest of natural habitat for wild species correlate with a loss of diversity. However, many studies suggest that a rich and diverse wildlife limit disease spread independent of host density and type and specialization of infectious disease. 
-It seems then that biodiversity conservation, by protecting natural areas from human incursion or decrease our ever-growing consumption, is an excellent way to reduce spillover of disease and future outbreak.
-But it’s widespread trades and increased contact between populations that make an epidemic into a pandemic. Therefore, the reduction of non-essential travel to exotic destination seems to be a good measure for risk reduction.
-https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.180325
+> A11: As many studies suggest that a rich and diverse wildlife limit disease spread independent of host density and type and specialization of infectious disease. It seems then that biodiversity conservation, by protecting natural areas from human incursion, is an excellent way to reduce spillover of disease from wild life to humans and will prevent future outbreak.
 https://www.pnas.org/content/112/28/8667
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666729/
 https://www.nature.com/articles/s41559-019-1060-6
