@@ -26,8 +26,10 @@ It is improbable that SARS-CoV-2 in man-made. Its receptor-binding domain (RBD),
 ---------
 > Q4: Does SARS-CoV-2 require intermediate organism?
 
-> A4: 
-
+> A4: Despite that most of the early cases seems to arise with the Huanan Seafood market, recent studies show that the human SARS‐CoV‐2 virus is transmitted by human-to-human. indeed, the firstly documented patient had no link with this Seafood market. However, the Huanan marketplace has definitively played a role in the early spreading. 
+For now, research shows that SARS‐CoV‐2 did not come directly from pangolins nor bats and indicate a rapid human‐to‐human transmission of SARS‐CoV‐2, whithout the. need of a intermediate organism.
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25731
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098030/
 ---------
 > Q5: Why do so many viruses that cause epidemics originate in bats?
 
