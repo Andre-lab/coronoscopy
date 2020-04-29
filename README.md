@@ -26,7 +26,7 @@ It is improbable that SARS-CoV-2 in man-made. Its receptor-binding domain (RBD),
 ---------
 > Q4: Does SARS-CoV-2 require intermediate organism?
 
-> A4: Despite that most of the early cases seems to arise with the Huanan Seafood market, recent studies show that the human SARS‐CoV‐2 virus is transmitted by human-to-human. indeed, the firstly documented patient had no link with this Seafood market. However, the Huanan marketplace has definitively played a role in the early spreading. 
+> A4: Despite that most of the early cases seems to arise with the Huanan Seafood market, recent studies show that the human SARS‐CoV‐2 virus is transmitted by human-to-human. Indeed, the firstly documented patient had no link with this Seafood market. However, the Huanan marketplace has definitively played a role in the early spreading. 
 For now, research shows that SARS‐CoV‐2 did not come directly from pangolins nor bats and indicate a rapid human‐to‐human transmission of SARS‐CoV‐2, whithout the. need of a intermediate organism.
 https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25731
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098030/
@@ -44,8 +44,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098030/
 ---------
 > Q7: Is SARS-CoV-2 more efficent in recognizing human cells compare to SARS-CoV?
 
-> A7: The receptor-binding domain (RBD) in the spike protein is the responsible for the recognition and the binding to the ACE2 receptor and it is also the most variable part of the coronavirus genome. Curently a "bindinf surface" of this receptor-binding domain (RBD) have been shown to be critical for binding to human cells (to the ACE2 receptors). 
-The composition of this surface help scientist to determine what is the host range of SARS-CoV-like viruses. The "binding surface"  between SARS-CoV-2 and SARS-CoV are almost completely different. On the basis of curent research on the structure of this "binding surface", SARS-CoV-2 seems to have an high affinity with the human ACE2 compare to SARS-CoV. However computational analyses predict that the interaction between RBD and ACE2 is not ideal. However, as SARS-CoV-2 RBDs form a more stable complex with ACE2 than SARS-CoV does, result suggest that SARS-CoV-2 is indeed more efficent in recognizing human cells compare to SARS-CoV.(https://www.nature.com/articles/s41591-020-0820-9)(https://www.biorxiv.org/content/10.1101/2020.03.30.015891v2.abstract)
+> A7: The receptor-binding domain (RBD) in the spike protein is the responsible for the recognition and the binding to the ACE2 receptor and it is also the most variable part of the coronavirus genome. Curently a "binding surface" of this receptor-binding domain (RBD) have been shown to be critical for binding to human cells (to the ACE2 receptors). 
+The composition of this surface help scientist to determine what is the host range of SARS-CoV-like viruses. The "binding surface" of SARS-CoV-2 and SARS-CoV are almost completely different. On the basis of current research on the structure of this "binding surface", SARS-CoV-2 seems to have a higher affinity with the human ACE2 compare to SARS-CoV. However computational analyses predict that the interaction between RBD and ACE2 is not ideal. However, as SARS-CoV-2 RBDs form a more stable complex with ACE2 than SARS-CoV does, result suggest that SARS-CoV-2 is indeed more efficent in recognizing human cells compare to SARS-CoV.(https://www.nature.com/articles/s41591-020-0820-9)(https://www.biorxiv.org/content/10.1101/2020.03.30.015891v2.abstract)
 
 ---------
 > Q8: How many protein are encoded in virus genome and what do they do?
@@ -54,8 +54,8 @@ The composition of this surface help scientist to determine what is the host ran
 ---------
 > Q9: What are potential antiviral therapies?
 
-> A9: Tremendous effort is currently made to find rapidly a cure against COVID-19. For now, the main research is around drug repurposing, which is taking already existing drug and test if it’s efficient against SARS-CoV-2 virus. This method can shorten the time in comparison with trying to find a novel molecule against this virus. 
-From the preliminary data, several molecules show some effect in infected cells, (e.g. Ivermectin, remdesivir, lopinavir, sirolimus, dactinomycin, mercaptopurine, melatonin, toremifene, emodin homorringtonine, and emetine). One of the privileged paths to a cure would be drug combinations which would help to hit the virus in different ways and would reduce the quantity of drug needed to be effective (so less side effect).
+> A9: Tremendous effort is currently made to rapidly find a cure for COVID-19. For now, the main research is around drug repurposing, which is taking already existing drug and test if it’s efficient against SARS-CoV-2 virus. This method can shorten the time in comparison with trying to find a novel molecule against this virus. 
+From the preliminary data, several molecules show some effect in infected cells, (e.g. Ivermectin, remdesivir, lopinavir, sirolimus, dactinomycin, mercaptopurine, melatonin, toremifene, emodin homorringtonine, and emetine). One of the persued paths to a cure would be drug combinations which would help to hit the virus in different ways and would reduce the quantity of drug needed to be effective (so less side effect).
 
 However, SARS-CoV-2 mutate quickly which make it susceptible to escape antiviral drugs. Some researchers propose the usage of CRISPR/Cas13d system as a treatment thanks to its flexibility to adapt to its target. CRISPR/Cas13d is an RNA-targeting system, that can cleave SARS-CoV-2 RNA genome. The adeno-associated virus, a safe virus, will serve as a vehicle to deliver the Cas13d effector to infected patients’ cells. 
 https://www.sciencedirect.com/science/article/pii/S0166354220302011
@@ -66,7 +66,7 @@ https://www.sciencedirect.com/science/article/pii/S016635422030200X
 ---------
 > Q10: Why do we observe outbreak of coronaviruses in XXI century?
 
-> A10: In our modern societies, it could seem counterintuitive that we are still sensible to pandemic outbreak. However, despite the tremendous progress in medicine and in control measures numerous diseases are emerging and spreading with an increase efficiency. 
+> A10: In our modern societies, it could seem counterintuitive that we are still sensible to pandemic outbreak. However, despite the tremendous progress in medicine and in control measures numerous diseases are emerging and spreading with an increased efficiency. 
 Nowadays, outbreaks are more and more frequent and seems to emerge from hot spot of biodiversity at risk. Numerous studies show that, despite biodiversity being a source of pathogens, it is its decrease that cause a dramatic increase in such epidemics.  Outbreak are then becoming pandemic thanks to widespread trade and increased contact between populations.
 (https://www.ncbi.nlm.nih.gov/pubmed/20567988) (https://www.visualcapitalist.com/history-of-pandemics-deadliest/) (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090032) (https://www.nature.com/articles/s41559-019-1060-6)
 ---------
