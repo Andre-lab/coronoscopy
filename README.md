@@ -62,7 +62,6 @@ The composition of this surface help scientist to determine what is the host ran
 
 > A9: Tremendous effort is currently made to rapidly find a cure for COVID-19. For now, the main research is around drug repurposing, which is taking already existing drug and test if it’s efficient against SARS-CoV-2 virus. This method can shorten the time in comparison with trying to find a novel molecule against this virus. 
 From the preliminary data, several molecules show some effect in infected cells, (e.g. Ivermectin, remdesivir, lopinavir, sirolimus, dactinomycin, mercaptopurine, melatonin, toremifene, emodin homorringtonine, and emetine). One of the persued paths to a cure would be drug combinations which would help to hit the virus in different ways and would reduce the quantity of drug needed to be effective (so less side effect).
-
 However, SARS-CoV-2 mutate quickly which make it susceptible to escape antiviral drugs. Some researchers propose the usage of CRISPR/Cas13d system as a treatment thanks to its flexibility to adapt to its target. CRISPR/Cas13d is an RNA-targeting system, that can cleave SARS-CoV-2 RNA genome. The adeno-associated virus, a safe virus, will serve as a vehicle to deliver the Cas13d effector to infected patients’ cells. 
 https://www.sciencedirect.com/science/article/pii/S0166354220302011
 https://www.nature.com/articles/s41422-020-0290-0
