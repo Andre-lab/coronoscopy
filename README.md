@@ -84,3 +84,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666729/
 https://www.nature.com/articles/s41559-019-1060-6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4995683/
 
+------------
+Q12: How can protein design be used to combat coronvirus infections?
+
+A12: There are two areas where protein design is used to combat COVID-19. In vaccine design one approach is to use parts of virus to trigger the immune system to create antibodies towards the virus. Many vaccines use proteins on the surface of the virus to trigger the immune system. While it is possible to inject the surface proteins directly as vaccines, it is often better to put the surface proteins on a carrier. These carriers are often proteins that are able to form spherical particles where you can attach many copies of the protein you want the immune system to recognize. By displaying many copies you can get a stronger immune response. The spherical proteins can be designed to have optimal properties like size and number of attachment points. See for example, 
+
+https://pubmed.ncbi.nlm.nih.gov/32748788/
+
+Vaccines are made to stop you getting infected to begin with. But what about treatments for patients already infected with COVID-19. One approach is to stop the virus from entering the cell. There are several proteins on the surface of COVID-19 that are important. However, one of the most central ones i Ace2. It is mutations in Ace2 that probably resulted in the coronavirus spreading to humans. By binding proteins to Ace2 on the surface of the virus it would not be able to enter human cells. Protein design can be used to design proteins that bind tighly to the virus and that could be injected into the bloodstream and hunt down the free virus particles to bind to them. Researchers in the Baker laboratory at University of Washington have done this and shown that it could stop the virus in animal trials.
+
+https://pubmed.ncbi.nlm.nih.gov/32907861/
+
+In the Andre research group at Lund University we design new spherical proteins that can be used in vaccine design. We also participate in a project to create better versions of FLU vaccines. See, andrelab.biochemistry.lu.se for updates on these results. 
+
